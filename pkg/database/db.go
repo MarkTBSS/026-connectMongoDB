@@ -5,7 +5,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/MarkTBSS/go-connectMongoDB/config"
+	"github.com/MarkTBSS/26-connectMongoDB/config"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"go.mongodb.org/mongo-driver/mongo/readpref"

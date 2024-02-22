@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/MarkTBSS/go-connectMongoDB/config"
-	"github.com/MarkTBSS/go-connectMongoDB/pkg/database"
+	"github.com/MarkTBSS/26-connectMongoDB/config"
+	"github.com/MarkTBSS/26-connectMongoDB/pkg/database"
 )
 
 func main() {
