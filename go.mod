@@ -1,4 +1,4 @@
-module github.com/MarkTBSS/26-connectMongoDB
+module github.com/MarkTBSS/026-connectMongoDB
 
 go 1.21.5
 
